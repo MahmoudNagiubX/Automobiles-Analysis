@@ -14,6 +14,7 @@ The project covers:
 
 ## 📂 Repository Structure
 Automobiles-Analysis/
+
 ├── automobiles_data.csv
 
 ├── automobiles_schema.sql
