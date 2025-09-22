@@ -14,10 +14,15 @@ The project covers:
 
 ## 📂 Repository Structure
 Automobiles-Analysis/
+
 ├── automobiles_data.csv
+
 ├── automobiles_schema.sql
+
 ├── automobiles_cleaning_analysis.sql
+
 ├── automobiles_presentation.sql
+
 └── README.md
 
 ---
@@ -75,4 +80,4 @@ Feel free to fork the repo and submit pull requests.
 ---
 
 ## 📎 References
-- [Kaggle Automobiles Dataset]([https://www.kaggle.com/c/automobiles](https://www.kaggle.com/datasets/mrushan3/automobile-dataset))  
+- [Kaggle Automobiles Dataset]([https://www.kaggle.com/datasets/mrushan3/automobile-dataset])
