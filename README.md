@@ -99,4 +99,4 @@ Feel free to fork the repo and submit pull requests.
 ---
 
 ## 📎 References
-- [Kaggle Automobiles Dataset]([https://www.kaggle.com/datasets/mrushan3/automobile-dataset])
+- [Kaggle Automobiles Dataset](https://www.kaggle.com/datasets/mrushan3/automobile-dataset)
