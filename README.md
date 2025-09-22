@@ -85,13 +85,6 @@ The project covers:
 
 ---
 
-## 🚀 Future Improvements
-- Build a dashboard using Power BI  / Python (Pandas, Matplotlib)
-- Predict car prices using Machine Learning
-- Extend dataset with modern cars
-
----
-
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to fork the repo and submit pull requests.
