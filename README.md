@@ -63,23 +63,23 @@ The project covers:
 - Engine size and horsepower strongly correlate with price.
 <table>
   <tr>
-    <td><img src="Screenshots/automobiles(6).jpg" width="300"></td>
-    <td><img src="Screenshots/automobiles(7).jpg" width="300"></td>
+    <td><img src="Screenshots/automobiles(6).jpg" width="380"></td>
+    <td><img src="Screenshots/automobiles(7).jpg" width="380"></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/automobiles(8).jpg" width="300"></td>
-    <td><img src="Screenshots/automobiles(9).jpg" width="300"></td>
+    <td><img src="Screenshots/automobiles(8).jpg" width="380"></td>
+    <td><img src="Screenshots/automobiles(9).jpg" width="380"></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="Screenshots/automobiles(10).jpg" width="300"></td>
-    <td><img src="Screenshots/automobiles(11).jpg" width="300"></td>
+    <td><img src="Screenshots/automobiles(10).jpg" width="380"></td>
+    <td><img src="Screenshots/automobiles(11).jpg" width="380"></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/automobiles(12).jpg" width="300"></td>
-    <td><img src="Screenshots/automobiles(13).jpg" width="300"></td>
+    <td><img src="Screenshots/automobiles(12).jpg" width="380"></td>
+    <td><img src="Screenshots/automobiles(13).jpg" width="380"></td>
   </tr>
 </table>
 
