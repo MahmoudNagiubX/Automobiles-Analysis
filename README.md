@@ -14,9 +14,13 @@ The project covers:
 
 ## 📂 Repository Structure
 ├── automobiles_data.csv
+
 ├── automobiles_schema.sql
+
 ├── automobiles_cleaning_analysis.sql
+
 ├── automobiles_presentation.sql
+
 └── README.md
 
 ---
