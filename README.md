@@ -1,5 +1,5 @@
 # 🚗 Automobiles Data Analysis Project
-<img src="Screenshots/automobiles(1).jpg" width="420"></td>
+<img src="Screenshots/automobiles(1).jpg" width="600"></td>
 ## 📌 Overview
 This project explores an **automobiles dataset** using **SQL**.  
 The dataset contains detailed information about 205 cars, including specifications, technical features, and prices.  
